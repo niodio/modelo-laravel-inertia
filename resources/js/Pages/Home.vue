@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    {{ message }} {{ user }}
+    {{ message }} {{ user.name }}
 
     <!--
   This example requires Tailwind CSS v2.0+
