@@ -15,4 +15,7 @@ use Inertia\Inertia;
 |
 */
 
-Route::get('/', [HomeController::class, 'index']);
+Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/About', [HomeController::class, 'about'])->name('about');
+Route::get('/Register', [HomeController::class, 'register'])->name('register');
+Route::post('/Register', [HomeController::class, 'store'])->name('store');

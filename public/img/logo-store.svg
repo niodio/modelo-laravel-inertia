@@ -1,0 +1,9 @@
+<svg width="169" height="170" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m84.5,167.00001l0,0c-46.66806,0 -84.5,-37.38421 -84.5,-83.5l0,0c0,-46.11578 37.83194,-83.5 84.5,-83.5l0,0c22.41079,0 43.9037,8.7973 59.75052,24.45658c15.84682,15.65929 24.74948,36.89784 24.74948,59.04342l0,0c0,22.14558 -8.90266,43.38413 -24.74948,59.04341l24.74948,0l0,24.45659l-84.5,0z" stroke="#000" fill="#ff56ff"/>
+  <text transform="matrix(3.7257 0 0 3.18222 -784.641 -561.056)" font-style="italic" font-weight="bold" stroke="#000" xml:space="preserve" text-anchor="start" font-family="'Brygada 1918'" font-size="24" id="svg_2" y="210.2983" x="216.36331" stroke-width="0" fill="#7f003f">SX</text>
+  <text font-style="italic" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Azeret Mono'" font-size="24" stroke-width="0" id="svg_3" y="160.99506" x="78.28001" stroke="#000" fill="#7f0000">Store</text>
+ </g>
+</svg>
